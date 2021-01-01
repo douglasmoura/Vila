@@ -31,6 +31,9 @@ namespace VILA2._0.Servicos
             //Cor Verde escuro #FF2A7A04
             //Cor Vermelho ecuro #FF991305
             //cobranca.Cor
+            //cobranca.StatusCobranca
+            //StatusCobranca.Deve
+
             if (cobranca.StatusCobranca == StatusCobranca.Pago)
             {
                 cobranca.Cor = "#FF2A7A04";
